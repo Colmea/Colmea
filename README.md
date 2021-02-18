@@ -13,7 +13,7 @@ but I'm also building cool projects for other customers.
 ### Syngenta Field Of Innovation
 
 * :star: Stack: React.js, react-three-fiber, Three.js, GLTF.
-* :earth_asia: https://playar-syngenta-foi.netlify.app/
+* :earth_asia: https://playar-syngenta-foi.netlify.app
 
 ![GitHub Logo](/projects/syngenta.jpg)
 
@@ -28,7 +28,8 @@ When I have free time, I love building new projects. Sometimes to learn a new te
 ### Alkito Javascript MMORPG
 
 * :star: Stack: Javascript, Phaser.js, React.js (UI), Node.js Express, Websocket (socket.io).
-* :earth_asia: https://alkito.herokuapp.com/
+* :earth_asia: https://alkito.herokuapp.com
+* :floppy_disk: Github: https://github.com/Colmea/alkito-js-mmorpg
 
 ![GitHub Logo](/projects/alkito.jpg)
 
