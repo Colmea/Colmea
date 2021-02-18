@@ -6,7 +6,7 @@ I love building new cutting-edge projects for customers who want to push the bou
 
 ## Last project
 
-I'm currently working for Broadcast Industry for live production @evs-broadcast  (FIFA World Cup, Olympic Games, eSports, Fox Sport SuperBowl, ...),
+I'm currently working as a Frontend React.js Engineer for Broadcast Industry for live production @evs-broadcast  (FIFA World Cup, Olympic Games, eSports, Fox Sport SuperBowl, ...),
 but I'm also building cool projects for other customers.
 
 
