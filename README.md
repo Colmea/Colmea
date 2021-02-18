@@ -10,25 +10,26 @@ I'm currently working for Broadcast Industry for live production @evs-broadcast 
 but I'm also building cool projects for other customers.
 
 
-### Syngenta Field Of Innovation (2020)
+### Syngenta Field Of Innovation
 
 * :star: Stack: React.js, react-three-fiber, Three.js, GLTF.
 * :earth_asia: https://playar-syngenta-foi.netlify.app/
 
 ![GitHub Logo](/projects/syngenta.jpg)
 
+Syngenta's Field Of Innovation is a big annual event in... real life. Unfortunately, COVID-19 force them to re-think their event. And this is how Virtual Field Of Innovation came to life.
 
-<!--
-**Colmea/Colmea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full React.js project with react-three-fiber (React renderer for Three.js). Challenging but exciting project !
 
-Here are some ideas to get you started:
+## Last personnal project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I have free time, I love building new projects. Sometimes to learn a new tech, but most of the time just for fun.
+
+### Alkito Javascript MMORPG
+
+* :star: Stack: Javascript, Phaser.js, React.js (UI), Node.js Express, Websocket (socket.io).
+* :earth_asia: https://alkito.herokuapp.com/
+
+![GitHub Logo](/projects/alkito.jpg)
+
+Alkito is a Proof Of Concept for a Javascript MMORPG built with Phaser.js and React.js on the client side, and Node.js, Express and Websockets on the backend side.
